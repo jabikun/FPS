@@ -1,4 +1,0 @@
-*.zip filter=lfs diff=lfs merge=lfs -text
- filter=lfs diff=lfs merge=lfs -text
-GametopiaFPS.zip filter=lfs diff=lfs merge=lfs -text
-GametopiaFPSGame.zip filter=lfs diff=lfs merge=lfs -text
