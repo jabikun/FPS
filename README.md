@@ -1,8 +1,8 @@
 # FPS
 FPS Game for Gametopia Course
 
-GametopiaFPS: Contiene el código del juego.
-GametopiaFPSGame: Contiene el juego ya compilado.
++ GametopiaFPS: Contiene el código del juego.
++ GametopiaFPSGame: Contiene el juego ya compilado.
 
 Controles:
 
