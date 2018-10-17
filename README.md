@@ -1,2 +1,2 @@
 # FPS
-FPS for Gametopia Course
+FPS Game for Gametopia Course
