@@ -1,14 +1,17 @@
 # FPS
 FPS Game for Gametopia Course
 
+GametopiaFPS: Contiene el código del juego.
+GametopiaFPSGame: Contiene el juego ya compilado.
+
 Controles:
 
-Movimiento : W,A,S,D
++ Movimiento : W,A,S,D
 
-Correr: Shift Izq.
++ Correr: Shift Izq.
 
-Saltar: Espacio
++ Saltar: Espacio
 
-Disparo: Click Izq.
++ Disparo: Click Izq.
 
-Finalizar Juego: Esc
++ Finalizar Juego: Esc
