@@ -4,7 +4,11 @@ FPS Game for Gametopia Course
 Controles:
 
 Movimiento : W,A,S,D
+
 Correr: Shift Izq.
-Espacio: Salto
+
+Saltar: Espacio
+
 Disparo: Click Izq.
-Esc: Finalizar Juego
+
+Finalizar Juego: Esc
